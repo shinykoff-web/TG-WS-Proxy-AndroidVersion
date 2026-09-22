@@ -1,0 +1,16 @@
+<resources>
+    <color name="bg">#101214</color>
+    <color name="surface">#181B1F</color>
+    <color name="surface_muted">#22262B</color>
+    <color name="text_primary">#F2F3F5</color>
+    <color name="text_secondary">#9299A3</color>
+    <color name="button">#D9DCE0</color>
+    <color name="button_pressed">#BFC3C8</color>
+    <color name="button_text">#15171A</color>
+    <color name="success">#32D583</color>
+    <color name="danger">#FF5B5B</color>
+    <color name="warning">#F2B84B</color>
+    <color name="divider">#2A2E34</color>
+    <color name="log_bg">#0B0D0F</color>
+    <color name="log_text">#D7DCE2</color>
+</resources>
